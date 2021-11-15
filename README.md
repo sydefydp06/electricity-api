@@ -1,4 +1,4 @@
-# SARS-API
+# Electricity API
 
 ## Dev Instructions
 Run `pipenv install --dev` to install the env.  
