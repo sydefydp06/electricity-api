@@ -1,7 +1,5 @@
 from typing import List, Optional
 
-from sqlalchemy.sql.elements import _truncated_label
-
 from fastapi import Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
